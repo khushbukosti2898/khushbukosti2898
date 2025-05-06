@@ -1,22 +1,6 @@
 ### 👋 Hi there, I'm Khushbu Koshti
 
 - 💬 Ask me about **React**, **TypeScript**, and **GitHub Actions**
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/khushbu-koshti-44a472142/)
-- 🌐 Visit my [Portfolio](https://khushbukoshti.my.canva.site/)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushbukosti2898&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushbukosti2898&layout=compact&theme=radical)
-
----
-
-### 📈 Contribution Graph
-
-![Khushbu Koshti's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushbukosti2898&theme=radical)
 
 ---
 
